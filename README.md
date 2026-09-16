@@ -21,4 +21,3 @@ I am a master's student in Chemical Engineering at National Taiwan University. M
 
 - [Plasma Spectroscopy for Heavy Metal Quantification](https://github.com/liangyuchen-research/plasma-spectroscopy-quantification): spectral regression, transfer learning, and occlusion-based analysis of characteristic emission regions. Published in [*Talanta*, 297 (2026), 128652](https://doi.org/10.1016/j.talanta.2025.128652).
 - [Mixture-of-Experts Spectral Calibration](https://github.com/liangyuchen-research/mixture-of-experts-spectral-calibration): staged calibration experiments across solution matrices.
-- [Combinatorial Experiment Design](https://github.com/liangyuchen-research/combinatorial-experiment-design): lattice visualization, rank counting, and subset-coverage algorithms.
