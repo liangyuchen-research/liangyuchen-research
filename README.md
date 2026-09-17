@@ -4,22 +4,20 @@ M.S. student in Chemical Engineering at **National Taiwan University**. I work o
 
 ## Research
 
-| Project | Summary |
+| Project | Focus |
 | --- | --- |
-| [Plasma spectroscopy for heavy metal quantification](https://github.com/liangyuchen-research/plasma-spectroscopy-quantification) | ANN / CNN / convolutional-Transformer regression of Cu, Ni, Pb and Zn from plasma emission spectra, spectral occlusion analysis, wastewater evaluation. Code, data and checkpoints of the *Talanta* paper. **NTU** |
-| [GAN-based spectral restoration](https://github.com/liangyuchen-research/conditional-gan-spectral-restoration) | Conditional GAN that removes matrix interference from spectra before calibration; restored 1–5 ppm readouts within 5–9 % mean error in the archived evaluation. **NTU** |
-| [Autonomous laboratory](https://github.com/liangyuchen-research/laboratory-instrument-control) | FastAPI service, touch console and Arduino firmware for eight peristaltic pumps, a syringe pump, interlocked valves and 10 Hz gravimetric feedback dosing; earlier Raspberry Pi / STM32 acquisition system preserved. **NTU** |
-| [Matrix-matched spectral calibration](https://github.com/liangyuchen-research/mixture-of-experts-spectral-calibration) | Measurement processing and calibration tools for Na/Ca/K/Mg interference studies; archived results show matrix-matched calibration cutting test error 2–5×. **NTU, ongoing** |
-| [SWOT satellite wave separation](https://github.com/liangyuchen-research/ocean-satellite-wave-separation) | Denoising autoencoders that separate Rossby-wave signal from internal-wave contamination in SWOT swath altimetry. **Scripps Institution of Oceanography, UC San Diego** |
+| [Autonomous Laboratory](https://github.com/liangyuchen-research/laboratory-instrument-control) | Automated solution preparation and quantitative analysis. FastAPI, Arduino firmware, a touch console, and mass-feedback dosing for eight peristaltic pumps. **NTU** |
+| [GAN-Based Spectral Restoration](https://github.com/liangyuchen-research/conditional-gan-spectral-restoration) | Conditional GAN restoration of plasma spectra for real-time heavy metal quantification across solution matrices. **NTU** |
+| [SWOT Satellite Wave Separation](https://github.com/liangyuchen-research/ocean-satellite-wave-separation) | Denoising autoencoders for separating ocean-wave signals in satellite altimetry. **Scripps Institution of Oceanography, UC San Diego** |
 
 ## Projects
 
-| Project | Summary |
+| Project | Methods and scale |
 | --- | --- |
-| [Social media sentiment × daily weather](https://github.com/liangyuchen-research/social-sentiment-weather-analytics) | Kubernetes / Fission / Elasticsearch pipeline: rate-limit-aware harvesters for Reddit, Bluesky and Mastodon across three Australian cities, sentiment scoring of 1.22M posts joined with 12.5K daily weather records, served through REST functions. |
-| [Evidence retrieval and claim verification](https://github.com/liangyuchen-research/evidence-retrieval-claim-verification) | TF-IDF candidate retrieval over 1.2M passages (top-500 hit rate 89 %), MiniLM cross-encoder reranking and a class-weighted DeBERTa-v3 classifier in PyTorch / Hugging Face. |
+| [Social Media Sentiment and Weather Analytics](https://github.com/liangyuchen-research/social-sentiment-weather-analytics) | Kubernetes pipeline linking posts to daily weather across three Australian cities. Fission REST APIs and Elasticsearch, with 1.22M posts and 12.5K weather records in the project dataset. **University of Melbourne** |
+| [Evidence Retrieval and Claim Verification](https://github.com/liangyuchen-research/evidence-retrieval-claim-verification) | Two-stage retrieval over 1.2M passages followed by transformer-based claim verification. PyTorch, Hugging Face Transformers, and scikit-learn. **University of Melbourne** |
 
-## Publication
+## Publication and supporting code
 
-- L.-Y. Chen, C.-Y. Wang, C.-C. Hsu, *Machine learning-based system for online quantitative monitoring of heavy metals across different aqueous matrices using spectroscopy of plasmas in liquids*, **Talanta** 297 (2026) 128652. [doi:10.1016/j.talanta.2025.128652](https://doi.org/10.1016/j.talanta.2025.128652)
-- A second first-author manuscript on GAN-based spectral restoration is under review at *Analytica Chimica Acta*.
+- [Plasma spectroscopy for heavy metal quantification](https://github.com/liangyuchen-research/plasma-spectroscopy-quantification): ANN/CNN/Transformer regression and occlusion-based interpretation. Published in [*Talanta*, 297 (2026), 128652](https://doi.org/10.1016/j.talanta.2025.128652).
+- [Spectral calibration utilities](https://github.com/liangyuchen-research/mixture-of-experts-spectral-calibration): measurement processing and calibration tools from ongoing mixture-of-experts research.
