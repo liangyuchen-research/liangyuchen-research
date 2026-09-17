@@ -2,8 +2,6 @@
 
 M.S. student in Chemical Engineering at **National Taiwan University**. I work on machine learning for plasma spectroscopy, experimental automation, and signal processing.
 
-📧 r13524148@ntu.edu.tw · 📄 [Talanta 297 (2026) 128652](https://doi.org/10.1016/j.talanta.2025.128652)
-
 ## Research
 
 | Project | Summary |
