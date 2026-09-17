@@ -12,7 +12,7 @@ M.S. student in Chemical Engineering at **National Taiwan University**. I work o
 | [Matrix-matched spectral calibration](https://github.com/liangyuchen-research/mixture-of-experts-spectral-calibration) | Measurement processing and calibration tools for Na/Ca/K/Mg interference studies; archived results show matrix-matched calibration cutting test error 2–5×. **NTU, ongoing** |
 | [SWOT satellite wave separation](https://github.com/liangyuchen-research/ocean-satellite-wave-separation) | Denoising autoencoders that separate Rossby-wave signal from internal-wave contamination in SWOT swath altimetry. **Scripps Institution of Oceanography, UC San Diego** |
 
-## Course projects (University of Melbourne)
+## Projects
 
 | Project | Summary |
 | --- | --- |
