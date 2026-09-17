@@ -1,15 +1,8 @@
 # Liang-Yu (Lio) Chen
 
-M.S. student in Chemical Engineering at **National Taiwan University** (Plasma Engineering Laboratory, advisor Prof. Cheng-Che Hsu). I build machine-learning and automation systems around plasma spectroscopy: models that read metal concentrations from emission spectra, generative restoration of interfered spectra, and the autonomous laboratory that acquires the data.
+M.S. student in Chemical Engineering at **National Taiwan University**. I work on machine learning for plasma spectroscopy, experimental automation, and signal processing.
 
 📧 r13524148@ntu.edu.tw · 📄 [Talanta 297 (2026) 128652](https://doi.org/10.1016/j.talanta.2025.128652)
-
-<p align="center">
-  <a href="https://github.com/liangyuchen-research/plasma-spectroscopy-quantification"><img src="https://raw.githubusercontent.com/liangyuchen-research/plasma-spectroscopy-quantification/main/docs/figures/occlusion_importance.png" width="49%" alt="Occlusion importance over a plasma emission spectrum"></a>
-  <a href="https://github.com/liangyuchen-research/laboratory-instrument-control"><img src="https://raw.githubusercontent.com/liangyuchen-research/laboratory-instrument-control/main/docs/figures/console.png" width="49%" alt="Touch console of the autonomous laboratory"></a>
-</p>
-
-<p align="center"><sub>Left: the convolutional Transformer's prediction depends almost only on the Cu I 324.75 / 327.40 nm lines (occlusion analysis, Talanta 2026). Right: the touch console of Autonomous Laboratory v6 on its device simulator.</sub></p>
 
 ## Research
 
@@ -32,5 +25,3 @@ M.S. student in Chemical Engineering at **National Taiwan University** (Plasma E
 
 - L.-Y. Chen, C.-Y. Wang, C.-C. Hsu, *Machine learning-based system for online quantitative monitoring of heavy metals across different aqueous matrices using spectroscopy of plasmas in liquids*, **Talanta** 297 (2026) 128652. [doi:10.1016/j.talanta.2025.128652](https://doi.org/10.1016/j.talanta.2025.128652)
 - A second first-author manuscript on GAN-based spectral restoration is under review at *Analytica Chimica Acta*.
-
-**Tools I use:** Python, C/C++, MATLAB · PyTorch, TensorFlow, scikit-learn, OpenCV · Arduino, Raspberry Pi, STM32, Modbus · Linux, Git, Docker, Kubernetes, LaTeX.
